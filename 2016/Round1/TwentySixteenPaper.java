@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class TwentySixteenPaper {
     public static void main(String[] args) {
-        encryption();
+        
     }
 
     // Q1 Calvin Rea, Java 16
